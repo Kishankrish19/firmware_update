@@ -1,4 +1,4 @@
 {
   "version": "1.1",
-  "firmware_url": "http://your-server.com/firmware_v1.1.bin"
+  "firmware_url": "https://github.com/Kishankrish19/firmware_update/blob/main/firmware_update_v1.bin"
 }
